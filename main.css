@@ -2,23 +2,23 @@
     text-align: center;
 }
 .box-one {
-    background-color: ;
+    color: red;    
     width: 1390px;
     height: 270px;
     border: 5px solid;
     padding: 20px;
-    margin:115px;
+    margin: 115px;
 }
 .box-two {
-    background-color: ;
+    color: red;
     width: 1390px;
     height: 550px;
     border: 5px solid ;
     padding: 20px;
-    margin:115px;
+    margin: 115px;
 }
 body {
-    background-image: url(black-background.jpg);
+    background-image: url(https://www.google.com/imgres?q=black%20background&imgurl=https%3A%2F%2F4kwallpapers.com%2Fimages%2Fwallpapers%2Fwindows-11-dark-mode-abstract-background-black-background-3840x2400-8710.jpg&imgrefurl=https%3A%2F%2F4kwallpapers.com%2Fabstract%2Fwindows-11-dark-mode-abstract-background-black-background-8710.html&docid=xO5rx33-xgYV0M&tbnid=9xXfugZV1bn6QM&vet=12ahUKEwi93rzG1fqIAxWa98kDHSPPH_YQM3oECF4QAA..i&w=3840&h=2400&hcb=2&ved=2ahUKEwi93rzG1fqIAxWa98kDHSPPH_YQM3oECF4QAA);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
