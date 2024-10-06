@@ -4,10 +4,10 @@
 .box-one {
     background-color: ;
     width: 1390px;
-    height: 280px;
+    height: 270px;
     border: 5px solid;
     padding: 20px;
-    margin: 30px;
+    margin: 115px;
 }
 .box-two {
     background-color: ;
@@ -15,7 +15,7 @@
     height: 550px;
     border: 5px solid ;
     padding: 20px;
-    margin: 30px;
+    margin: 115px;
 }
 body {
     background-image: url(black-background.jpg);
